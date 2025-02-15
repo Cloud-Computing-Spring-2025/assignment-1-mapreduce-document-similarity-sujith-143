@@ -1,0 +1,1 @@
+doc1 Hadoop is a distributed processing framework designed to handle big data efficiently.

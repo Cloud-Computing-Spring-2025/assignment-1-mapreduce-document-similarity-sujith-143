@@ -1,0 +1,1 @@
+doc2 Big data requires efficient processing, and Hadoop is one of the most popular solutions.
